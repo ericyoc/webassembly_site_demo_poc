@@ -12,7 +12,7 @@ Yutian Yan, Tengfei Tu, Lijian Zhao, Yuchen Zhou, and Weihang Wang. 2021. Unders
 ### Full Screen View Screenshot
 ![Full Screen Demo](full_scren.jpg)
 
-### WebAssembly Demo Screenshot
+### WebAssembly Page Content Screenshot
 ![WebAssembly Demo](web_demo.jpg)
 
 ### Navigation Menu Screenshot
