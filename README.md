@@ -10,7 +10,7 @@ J. De Macedo, R. Abreu, R. Pereira and J. Saraiva, "WebAssembly versus JavaScrip
 Yutian Yan, Tengfei Tu, Lijian Zhao, Yuchen Zhou, and Weihang Wang. 2021. Understanding the performance of webassembly applications. In Proceedings of the 21st ACM Internet Measurement Conference (IMC '21). Association for Computing Machinery, New York, NY, USA, 533–549. https://doi.org/10.1145/3487552.3487827
 
 ### Full Screen View
-![Full Screen Demo](full_screen.jpg)
+![Full Screen Demo](full_scren.jpg)
 
 ### WebAssembly Demo in Action
 ![WebAssembly Demo](web_demo.jpg)
